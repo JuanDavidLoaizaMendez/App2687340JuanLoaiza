@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1054539439832",
+    "project_id": "desarrollomovilnativo1-4a11f",
+    "storage_bucket": "desarrollomovilnativo1-4a11f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054539439832:android:21e0409b6c576285bfc1ad",
+        "android_client_info": {
+          "package_name": "co.edu.sena.appJuanLoaiza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054539439832-8b7kat120339rstbclefmrm3dn1lik23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsIvBrMOCWcBr5QY7nlAFvMu_TxO1yifk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054539439832-8b7kat120339rstbclefmrm3dn1lik23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
